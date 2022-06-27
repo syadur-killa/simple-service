@@ -1,0 +1,17 @@
+.footer-link {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-sublink {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-sublink a {
+  text-decoration: none;
+}
